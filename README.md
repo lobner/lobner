@@ -1,6 +1,6 @@
 # Hi there, I'm lobner 👋
 
-![Profile Banner](https://user-images.githubusercontent.com/your-banner-image-here) <!-- Replace or remove if you wish -->
+![me](https://github.com/user-attachments/assets/eca16f78-f2a0-4cd4-9d1a-0100f3dd4523)
 
 ## 👨‍💻 About Me
 
