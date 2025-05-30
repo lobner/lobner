@@ -1,7 +1,4 @@
-# Hi there, I'm lobner 👋
-
-[me](https://github.com/user-attachments/assets/91587694-2670-4e6b-bc11-dcb0fbb10b6f)
-
+# Hi there, I'm [lobner](https://github.com/user-attachments/assets/91587694-2670-4e6b-bc11-dcb0fbb10b6f) 👋
 
 ## 👨‍💻 About Me
 
