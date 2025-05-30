@@ -1,6 +1,6 @@
 # Hi there, I'm lobner 👋
 
-![me](https://github.com/user-attachments/assets/eca16f78-f2a0-4cd4-9d1a-0100f3dd4523)
+<img src="https://github.com/user-attachments/assets/eca16f78-f2a0-4cd4-9d1a-0100f3dd4523" alt="me" width="25%">
 
 ## 👨‍💻 About Me
 
